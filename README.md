@@ -5,4 +5,5 @@ https://towardsdatascience.com/getting-data-ready-for-modelling-feature-engineer
 
 2. Z-test, t-test, ANOVA python
 3. data imputation python
-4. to be added...
+4. How to control imbalanced data: Oversmapling and undersampling (SMOTE etc.)
+to be added...
