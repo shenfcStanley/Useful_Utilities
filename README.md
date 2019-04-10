@@ -4,6 +4,7 @@
 https://towardsdatascience.com/getting-data-ready-for-modelling-feature-engineering-feature-selection-dimension-reduction-39dfa267b95a 
 
 Boruta: https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/
+https://github.com/scikit-learn-contrib/boruta_py/blob/master/boruta/examples/Madalon_Data_Set.ipynb
 
 2. Z-test, t-test, ANOVA python
 3. data imputation python
