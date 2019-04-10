@@ -3,6 +3,8 @@
 
 https://towardsdatascience.com/getting-data-ready-for-modelling-feature-engineering-feature-selection-dimension-reduction-39dfa267b95a 
 
+Boruta: https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/
+
 2. Z-test, t-test, ANOVA python
 3. data imputation python
 4. How to control imbalanced data: Oversmapling and undersampling (SMOTE etc.)
