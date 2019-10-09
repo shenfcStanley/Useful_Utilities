@@ -8,6 +8,7 @@ https://github.com/scikit-learn-contrib/boruta_py/blob/master/boruta/examples/Ma
 
 2. Z-test, t-test, ANOVA python
 https://bloomingtontutors.com/blog/when-to-use-the-z-test-versus-t-test
+https://www.marsja.se/four-ways-to-conduct-one-way-anovas-using-python/
 
 3. data imputation python
 4. How to control imbalanced data: Oversmapling and undersampling (SMOTE etc.)
