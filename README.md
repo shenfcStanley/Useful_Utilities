@@ -6,9 +6,10 @@ https://towardsdatascience.com/getting-data-ready-for-modelling-feature-engineer
 Boruta: https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/
 https://github.com/scikit-learn-contrib/boruta_py/blob/master/boruta/examples/Madalon_Data_Set.ipynb
 
-2. Z-test, t-test, ANOVA python
+2. Z-test, t-test, ANOVA (f-test) python
 https://bloomingtontutors.com/blog/when-to-use-the-z-test-versus-t-test
 https://www.marsja.se/four-ways-to-conduct-one-way-anovas-using-python/
+https://brandalyzer.blog/2010/12/05/difference-between-z-test-f-test-and-t-test/
 
 3. data imputation python
 4. How to control imbalanced data: Oversmapling and undersampling (SMOTE etc.)
