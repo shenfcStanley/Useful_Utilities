@@ -7,6 +7,8 @@ Boruta: https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-
 https://github.com/scikit-learn-contrib/boruta_py/blob/master/boruta/examples/Madalon_Data_Set.ipynb
 
 2. Z-test, t-test, ANOVA python
+https://bloomingtontutors.com/blog/when-to-use-the-z-test-versus-t-test
+
 3. data imputation python
 4. How to control imbalanced data: Oversmapling and undersampling (SMOTE etc.)
 https://www.kaggle.com/residentmario/undersampling-and-oversampling-imbalanced-data
